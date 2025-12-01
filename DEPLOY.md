@@ -108,7 +108,7 @@ title: Titre de la page
 
 ## Licence
 
-Contenu distribué sous [licence Creative Commons BY-SA 4.0](LICENSE)
+Contenu distribué sous [licence Creative Commons BY-SA 4.0](/license.md/)
 
 Voir le fichier [LICENSE](LICENSE) pour les détails complets.
 
