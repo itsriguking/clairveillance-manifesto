@@ -74,25 +74,25 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-    </main>
 
-    <footer class="site-footer">
-      <p>
-        <strong>{{ site.title }}</strong> - {{ site.tagline }}<br>
-        Par {{ site.author }} | 
-        <a href="https://github.com/{{ site.github_username }}/clairveillance-manifesto">
-          Voir sur GitHub
-        </a> | 
-        <a href="{{ '/LICENSE' | relative_url }}">
-          CC BY-SA 4.0
-        </a>
-      </p>
-      <p style="font-style: italic; margin-top: 1em;">
-        Que la clarté ne serve plus à dominer, mais à relier.<br>
-        Que le doute ne soit plus une faiblesse, mais une force.<br>
-        Que la bienveillance ne soit plus une naïveté, mais une politique.
-      </p>
-    </footer>
+      <footer class="site-footer">
+        <p>
+          <strong>{{ site.title }}</strong> - {{ site.tagline }}<br>
+          Par {{ site.author }} | 
+          <a href="https://github.com/{{ site.github_username }}/{{ site.github.repository_name }}">
+            Voir sur GitHub
+          </a> | 
+          <a href="{{ '/LICENSE' | relative_url }}">
+            CC BY-SA 4.0
+          </a>
+        </p>
+        <p style="font-style: italic; margin-top: 1em;">
+          Que la clarté ne serve plus à dominer, mais à relier.<br>
+          Que le doute ne soit plus une faiblesse, mais une force.<br>
+          Que la bienveillance ne soit plus une naïveté, mais une politique.
+        </p>
+      </footer>
+    </main>
 
     {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
