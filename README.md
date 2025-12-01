@@ -28,7 +28,7 @@ L'intelligence artificielle nous offre une métaphore saisissante pour comprendr
 
 La plupart des projets de Machine Learning traditionnels s'apparentent à la construction d'une **voiture de course artisanale**. C'est une merveille de technologie, ultra-performante et impressionnante dans un environnement parfaitement contrôlé : sur un circuit connu, par temps sec.
 
-Cependant, ce système est fondamentalement **entropique**. Dès que le monde réel, imprévisible et changeant, s'en mêle — si la météo change ou si la route se dégrade — cette machine sophistiquée devient inutile, voire dangereuse. Elle se dégrade passivement et en silence. Son véritable ennemi n'est pas un bug dans le code, mais le **chaos du réel** et la **"dérive" (drift)** des données, ce décalage insidieux entre le monde sur lequel elle a été entraînée et le monde tel qu'il est devenu.
+Cependant, ce système est fondamentalement **entropique**. Dès que le monde réel, imprévisible et changeant, s'en mêle (si la météo change ou si la route se dégrade), cette machine sophistiquée devient inutile, voire dangereuse. Elle se dégrade passivement et en silence. Son véritable ennemi n'est pas un bug dans le code, mais le **chaos du réel** et la **"dérive" (drift)** des données, ce décalage insidieux entre le monde sur lequel elle a été entraînée et le monde tel qu'il est devenu.
 
 ### 1.2. La Machine Néguentropique : "L'Usine Intelligente" 🏭
 
@@ -63,7 +63,7 @@ Pour vaincre l'entropie, l'architecture du système doit forcer des conversation
 
 ### 2.1. Le Contrat Sémantique : Se Mettre d'Accord sur le Sens des Mots
 
-Ce premier pacte s'attaque à la source la plus commune de désordre : **le chaos de l'interprétation**. Il force tous les acteurs – experts métier, data scientists, ingénieurs – à utiliser la même définition rigoureuse pour les mêmes concepts.
+Ce premier pacte s'attaque à la source la plus commune de désordre : **le chaos de l'interprétation**. Il force tous les acteurs (experts métier, data scientists, ingénieurs) à utiliser la même définition rigoureuse pour les mêmes concepts.
 
 - **Exemple :** Un terme comme "activité client sur 30 jours" ne peut plus être ambigu.
 - **Outil technique :** Le **Feature Store** agit comme le gardien d'un "langage ubicuitaire" partagé.
@@ -71,7 +71,7 @@ Ce premier pacte s'attaque à la source la plus commune de désordre : **le chao
 
 ### 2.2. Le Contrat de Valeur : Se Mettre d'Accord sur la Finalité
 
-Ce contrat est un pacte sur le **"pourquoi"**, liant chaque effort technique à sa raison d'être. Un nouveau modèle d'IA, même techniquement plus précis, sera rejeté s'il ne prouve pas son impact positif sur un indicateur métier réel.
+Ce contrat est un pacte sur le **"pourquoi"**, liant chaque effort technique à sa raison d'être. Un nouveau modèle d'Intelligence Artificielle, même techniquement plus précis, qui bafoue ces accords tacites, génère plus d'entropie qu'il n'en résout.
 
 - **Outil technique :** Le **Model Registry** est le gardien de ce pacte, en forçant à lier chaque modèle à un impact mesurable.
 - **Remède à l'entropie :** On ne déploie plus un système parce qu'il est "techniquement meilleur", mais parce qu'il **"crée plus de valeur"**.
@@ -93,7 +93,7 @@ Ce dernier contrat, peut-être le plus humble, **institutionnalise le doute** en
 
 Cela dessine le contour d'un modèle de société basé sur l'apprentissage, l'empathie et la lucidité, une société qui ne prétend pas être parfaite mais dont l'essence même est de s'améliorer en écoutant le réel.
 
-Construire de tels systèmes ne relève pas que de l'architecture, mais aussi d'une posture intérieure, d'une éthique du regard. C'est ce que le manifeste de la Clairveillance propose.
+Construire de tels systèmes ne relève pas seulement de la technologie, mais aussi d'une posture intérieure, d'une éthique du regard. C'est ce que le manifeste de la Clairveillance propose.
 
 ---
 
@@ -110,6 +110,20 @@ graph LR
     style D fill:#ccffcc
 ```
 
-Les principes de la Clairveillance sont l'écho philosophique de cette architecture. Le "Contrat Sémantique" est l'incarnation technique du principe "Partager la vérité". Le "Contrat de Valeur" force à "Répondre de son regard" sur l'impact de nos créations. Le "Contrat de Validité" est une invitation systémique à "Voir clair" en permanence, en refusant le dogme. Ils nous invitent à construire des systèmes – personnels, technologiques, sociaux – qui ne cherchent pas à imposer une vérité figée, mais qui apprennent à allumer la lumière ensemble.
+Les principes de la Clairveillance sont l'écho philosophique de ces mécanismes. Le "Contrat Sémantique" est l'incarnation du principe "Partager la vérité". Le "Contrat de Valeur" force à "Répondre de son regard" sur l'impact de nos créations. Le "Contrat de Validité" est une invitation systémique à "Voir clair" en permanence, en refusant le dogme. Ils nous invitent à construire des systèmes (personnels, sociaux, collectifs) qui ne cherchent pas à imposer une vérité figée, mais qui apprennent à allumer la lumière ensemble.
 
 Nous appelons à une mutation douce mais radicale : celle d'une humanité capable de conscience partagée. Que la clarté ne serve plus à dominer, mais à relier.
+
+---
+
+## 📖 Pour Aller Plus Loin
+
+Pour une exploration approfondie de ces concepts appliqués à la politique, consultez :
+
+**[Le Manifeste de la Clairveillance : Pour une Politique Néguentropique](./docs/CLAIRVEILLANCE.md)**
+
+Ce document développe comment les principes néguentropiques peuvent être transposés à l'échelle sociétale, en détaillant les trois Contrats et une dynamique d'apprentissage continu pour nos institutions.
+
+---
+
+**Licence** : Ce contenu est distribué sous [licence Creative Commons BY-SA 4.0](LICENSE)

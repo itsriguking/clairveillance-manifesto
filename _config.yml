@@ -1,0 +1,61 @@
+# Configuration Jekyll pour GitHub Pages
+title: Clairveillance
+description: Pour une lucidité qui prend soin - Manifeste pour une politique néguentropique
+author: Axel Duret
+lang: fr
+
+# Thème GitHub Pages
+theme: jekyll-theme-minimal
+# Alternatives: jekyll-theme-cayman, jekyll-theme-slate, jekyll-theme-architect
+
+# URL du site (à modifier si domaine personnalisé)
+url: "https://axelduret.github.io"
+baseurl: "/clairveillance-manifesto"
+
+# Métadonnées SEO
+tagline: "Manifeste pour une politique néguentropique"
+keywords:
+  - clairveillance
+  - politique néguentropique
+  - gouvernance adaptative
+  - démocratie délibérative
+  - entropie sociale
+
+# Social
+github_username: axelduret
+
+# Navigation
+navigation:
+  - title: Accueil
+    url: /
+  - title: Manifeste
+    url: /docs/CLAIRVEILLANCE
+  - title: Étude de Cas
+    url: /docs/TECHNOLOGIE
+
+# Plugins GitHub Pages
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Options Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+# Exclusions
+exclude:
+  - README.md
+  - .git/
+  - .gitignore
+
+# Inclusions
+include:
+  - _layouts
+  - docs
+
+# Paramètres additionnels
+show_downloads: false
+google_analytics: # Ajouter ID Google Analytics si besoin
